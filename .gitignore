@@ -1,0 +1,8 @@
+# Section ajoutée automatiquement par create_luks.sh
+/logs
+/outputs
+/results
+/infos
+
+# Logs de création du repo - ajoutés automatiquement
+creation_log/
